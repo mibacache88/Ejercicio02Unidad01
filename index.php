@@ -1,6 +1,7 @@
 <?php
 include('lib/constantes.php');
 include('lib/reservaciones.php');
+$_SESSION["hm"]="222HOSTALRIOAMAZONAS RESERVATION ONLINE";
 ?>
 <!DOCTYPE html>
 <!--
